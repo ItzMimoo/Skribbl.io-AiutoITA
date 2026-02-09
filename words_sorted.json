@@ -1,0 +1,34 @@
+[
+  { "length": 2, "words": ["re"] },
+
+  { "length": 3, "words": ["ape", "ago", "ala", "amo", "oro", "uva", "bar", "zio", "tea"] },
+
+  { "length": 4, "words": ["casa", "mare", "luna", "sole", "pane", "rosa", "naso", "viso", "mano", "mela", "pera", "dito"] },
+
+  { "length": 5, "words": ["pizza", "pasta", "cuore", "fiore", "scala", "sedia", "letto", "libro", "penna", "porta", "crema", "fiume", "ponte"] },
+
+  { "length": 6, "words": ["scuola", "strada", "camera", "giacca", "scarpa", "gelato", "anello", "nuvola", "albero", "panino", "tavolo", "cucina"] },
+
+  { "length": 7, "words": ["balcone", "bottone", "candela", "cuscino", "armadio", "forbici", "lampada"] },
+
+  { "length": 8, "words": ["computer", "tiramisu", "cappello", "castello", "finestra", "panchina", "zucchero", "farfalla", "affogare", "martello", "coltello", "ospedale", "giardino", "girasole", "dentista"] },
+
+  { "length": 9, "words": ["spaghetti", "ambulanza", "terremoto", "cameriere", "microonde", "scrivania", "lavatrice", "cavatappi", "forchetta"] },
+
+  { "length": 10, "words": ["arcobaleno", "biblioteca", "paracadute", "cappuccino", "televisore", "fotografia", "giocattolo", "passeggino", "ombrellone", "pianoforte", "tagliaerba", "pennarello", "palloncino", "salvagente", "trampolino"] },
+
+  { "length": 11, "words": ["frigorifero", "dentifricio", "spazzolino", "portafoglio", "cassettiera", "pattinatore"] },
+
+  { "length": 12, "words": ["spazzacamino", "macchinafoto", "parrucchiere", "centrocommer", "capostazione", "raccoglitore"] },
+
+  { "length": 13, "words": ["supermercato", "lavastoviglie"] },
+
+  { "length": 14, "words": [] },
+
+  { "length": 15, "words": ["pesce pagliaccio"] },
+
+  { "length": 16, "words": [] },
+  { "length": 17, "words": [] },
+  { "length": 18, "words": [] },
+  { "length": 19, "words": [] }
+]
