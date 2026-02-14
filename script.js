@@ -6,7 +6,7 @@
 // @author       ItzMimoo
 // @match        https://skribbl.io/*
 // @grant        GM_getResourceText
-// @resource     words 
+// @resource     https://github.com/ItzMimoo/Skribbl.io-AiutoITA/blob/main/words_sorted.json
 // ==/UserScript==
 
 (function() {
@@ -107,4 +107,5 @@
         }
         guessBox.innerHTML = guessContent;
     },500);
+
 })();
